@@ -16,6 +16,6 @@ It helps developers understand, maintain, and document their projects.
 
 Doxygen uses special comments in source code to describe functions, classes, variables, and files.
 Common comment styles:
-- `/** ... */` – Block documentation comment.
+- '/** ... */' – Block documentation comment.
 - `///` – Single-line documentation comment.
 These comments help Doxygen understand what needs to be documented.
