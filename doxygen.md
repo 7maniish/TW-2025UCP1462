@@ -42,6 +42,8 @@ Basic steps:
 4. Run `doxygen Doxyfile`.
 5. Open the generated HTML documentation in a browser.
 
+<img src="doxygen-terminal.png" width="600">
+
 ## 6. Output Formats
 Doxygen can generate documentation in several formats:
 - **HTML:** Documentation viewed in a web browser.
