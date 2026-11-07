@@ -7,7 +7,7 @@ Unlike traditional offline word processors, Google Docs allows users to access t
 Real-time collaboration, which allows multiple users to work on the same document simultaneously.
 Commonly used in academic, professional, and collaborative environments for preparing reports, assignments and technical documents.
 
-<img src="googledocs-interface.png" width="450">
+<img src="googledocs-interface.png" width="600">
 
 ## 2. Purpose of Google Doc
 The primary purpose of Google Docs is to simplify document creation and make collaboration easier.
