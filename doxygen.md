@@ -19,9 +19,10 @@ Common comment styles:
 - `///` – Single-line documentation comment.
 These comments help Doxygen understand what needs to be documented.
 ### Source Code with Doxygen Comments
-<img src="images/doxygen-code.png" width="600">
+<img src="doxygen-code.png" width="600">
+
 ### Generated HTML Documentation
-<img src="images/doxygen-output.png" width="600">
+<img src="doxygen-output.png" width="600">
 
 ## 4. Common Doxygen Commands
 Doxygen provides special commands to describe different parts of source code.
