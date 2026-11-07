@@ -52,6 +52,8 @@ Google Docs automatically saves changes and keeps previous versions of a documen
 - Restore an earlier version when needed.
 - Rename versions to mark important milestones.
 
+<img src="google-docs-version-history.png" width="600">
+
 ## 7. Inserting Elements
 Google Docs supports different elements to improve document structure.
 - **Images:** Insert images from a computer, Drive, or web.
