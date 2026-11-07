@@ -40,3 +40,18 @@ Google Docs allows multiple users to work on the same document.
 - **Editor:** Can make changes to the document.
 - **Suggesting Mode:** Suggests edits without directly changing the original text.
 - **Comments:** Helps users discuss and review content.
+
+## 6. Version History
+Google Docs automatically saves changes and keeps previous versions of a document.
+- Open **File → Version history → See version history**.
+- View changes made over time.
+- Restore an earlier version when needed.
+- Rename versions to mark important milestones.
+
+## 7. Inserting Elements
+Google Docs supports different elements to improve document structure.
+- **Images:** Insert images from a computer, Drive, or web.
+- **Tables:** Organise information into rows and columns.
+- **Drawings:** Create simple diagrams and illustrations.
+- **Equations:** Insert mathematical expressions.
+- **Lists:** Use bullets and numbering to organise points.
