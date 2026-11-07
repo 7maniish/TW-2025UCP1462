@@ -32,3 +32,11 @@ Google Docs provides formatting tools to make documents clear and organised.
 - **Lists:** Create bulleted and numbered lists.
 - **Tables:** Arrange information in rows and columns.
 - **Page layout:** Adjust margins, orientation, headers, and footers.
+
+## 5. Collaboration and Sharing
+Google Docs allows multiple users to work on the same document.
+- **Viewer:** Can only view the document.
+- **Commenter:** Can view and add comments.
+- **Editor:** Can make changes to the document.
+- **Suggesting Mode:** Suggests edits without directly changing the original text.
+- **Comments:** Helps users discuss and review content.
