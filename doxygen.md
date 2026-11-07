@@ -41,7 +41,7 @@ Basic steps:
 3. Configure input files and output settings.
 4. Run `doxygen Doxyfile`.
 5. Open the generated HTML documentation in a browser.
-
+### Terminal Commands
 <img src="doxygen-terminal.png" width="600">
 
 ## 6. Output Formats
