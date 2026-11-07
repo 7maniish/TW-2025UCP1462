@@ -77,3 +77,7 @@ Google Docs allows documents to be downloaded in different formats.
 - Use comments for collaboration and feedback.
 - Check spelling and grammar.
 - Keep important versions backed up.
+
+## 11. Conclusion
+Google Docs is a useful tool for creating, formatting, and collaborating on documents.
+Its cloud-based features make document management simple and efficient.
