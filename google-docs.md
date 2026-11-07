@@ -9,7 +9,6 @@ Commonly used in academic, professional, and collaborative environments for prep
 
 ## 2. Purpose of Google Doc
 The primary purpose of Google Docs is to simplify document creation and make collaboration easier.
-
 Its major purposes include:
 - Creating and editing digital documents.
 - Organizing information using headings, paragraphs, tables, and lists.
@@ -20,9 +19,16 @@ Its major purposes include:
 
 ## 3. Important Characteristics
 Google Docs has several characteristics that make it useful for document preparation:
-
 1. **Cloud-Based Platform:** Documents are stored online and can be accessed from different devices.
 2. **Automatic Saving:** Changes are saved automatically.
 3. **Collaboration:** Multiple users can work on a document together.
 4. **Document Formatting:** Provides tools for organizing and presenting information.
 5. **Sharing and Permissions:** Allows users to control who can view, comment on, or edit a document.
+
+## 4. Document Formatting
+Google Docs provides formatting tools to make documents clear and organised.
+- **Text formatting:** Change font, size, colour, and alignment.
+- **Headings:** Use heading styles to organise content.
+- **Lists:** Create bulleted and numbered lists.
+- **Tables:** Arrange information in rows and columns.
+- **Page layout:** Adjust margins, orientation, headers, and footers.
