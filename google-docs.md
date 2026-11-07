@@ -55,3 +55,25 @@ Google Docs supports different elements to improve document structure.
 - **Drawings:** Create simple diagrams and illustrations.
 - **Equations:** Insert mathematical expressions.
 - **Lists:** Use bullets and numbering to organise points.
+
+## 8. Citations and References
+Google Docs provides a built-in citation tool for academic writing.
+- Open **Tools → Citations**.
+- Choose APA, MLA, or Chicago style.
+- Add source details.
+- Insert citations and generate a bibliography.
+
+## 9. Exporting Documents
+Google Docs allows documents to be downloaded in different formats.
+- **PDF:** For sharing and printing.
+- **DOCX:** For Microsoft Word.
+- **ODT:** For OpenDocument editors.
+- **HTML:** For web publishing.
+- **TXT:** For plain text.
+
+## 10. Best Practices
+- Use headings to organise content.
+- Maintain consistent fonts and formatting.
+- Use comments for collaboration and feedback.
+- Check spelling and grammar.
+- Keep important versions backed up.
