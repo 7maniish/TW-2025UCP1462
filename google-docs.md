@@ -43,6 +43,8 @@ Google Docs allows multiple users to work on the same document.
 - **Suggesting Mode:** Suggests edits without directly changing the original text.
 - **Comments:** Helps users discuss and review content.
 
+<img src="google-docs-sharing.png" width="600">
+
 ## 6. Version History
 Google Docs automatically saves changes and keeps previous versions of a document.
 - Open **File → Version history → See version history**.
