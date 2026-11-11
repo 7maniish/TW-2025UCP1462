@@ -229,6 +229,29 @@ BibTeX is used to manage references and create a bibliography.
 \bibliographystyle{plain}
 \bibliography{references}
 
-- The `bibliographystyle` command selects the bibliography style.
-- The `bibliography` command includes references from a .bib file.
-- `\vspace` adds vertical space.
+- The 'bibliographystyle' command selects the bibliography style.
+- The 'bibliography' command includes references from a .bib file.
+```
+
+## 13. Colours in LaTeX
+
+LaTeX uses the `xcolor` package to add colours to text.
+
+**Example:**
+
+```latex
+\usepackage{xcolor}
+
+\textcolor{red}{Red Text}
+\textcolor{blue}{Blue Text}
+```
+
+## 14. Backgrounds and Highlights
+
+LaTeX uses `\colorbox` and `\fcolorbox` to highlight text.
+
+**Example:**
+
+```latex
+\colorbox{yellow}{Important Text}
+\fcolorbox{red}{white}{Highlighted Text}
