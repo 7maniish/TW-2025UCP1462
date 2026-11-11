@@ -6,6 +6,7 @@ GitHub is an online platform used to host Git repositories and collaborate with 
 - Tracks project changes.
 - Makes sharing projects easier.
 - Provides tools like Issues and Pull Requests.
+<img src="github-intro.png" width="600">
 
 ## 2. GitHub Repository
 A GitHub repository is an online storage space for a project's files and their version history.
