@@ -151,14 +151,4 @@ LaTeX provides predefined commands to change the font size.
 | `\huge` | Huge |
 | `\Huge` | Largest |
 
-Example:
-
-```latex
-{\small Small Text}
-
-{\Large Large Text}
-
-{\Huge Largest Text}
-```
-
 The font size command affects the text enclosed within its braces.
