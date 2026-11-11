@@ -229,5 +229,5 @@ BibTeX is used to manage references and create a bibliography.
 \bibliographystyle{plain}
 \bibliography{references}
 
-- `\bibliographystyle` selects the bibliography style.
-- `\bibliography` includes references from a .bib file
+-`\bibliographystyle` selects the bibliography style.
+-`\bibliography` includes references from a .bib file
