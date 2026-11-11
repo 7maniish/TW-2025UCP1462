@@ -57,3 +57,6 @@ Before using Git, configure your username and email.
 git config --global user.name "Student Name"
 git config --global user.email "student@example.com"
 git config --global --list
+```
+**Name and Email:**
+<img src="git-name-email.png" width="600">
