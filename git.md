@@ -33,3 +33,9 @@ Git works through three main steps:
 1. **Working Directory:** Where files are created or modified.
 2. **Staging Area:** Where changes are selected before committing.
 3. **Repository:** Stores committed changes and project history.
+
+## 5. Git Architecture
+Git has three main components:
+1. **Working Directory:** Contains project files.
+2. **Local Repository:** Stores changes and commit history on the computer.
+3. **Remote Repository:** Stores the project online and allows collaboration.
