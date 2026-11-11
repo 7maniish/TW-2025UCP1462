@@ -36,24 +36,6 @@ Common output formats include:
 - PostScript (`.ps`)
 - Rich Text Format (`.rtf`)
 
-### Compiling a LaTeX Document
-
-A LaTeX source file is processed by a compiler to generate the final document.
-
-Using PDFLaTeX:
-
-```bash
-pdflatex filename.tex
-```
-
-Traditional LaTeX compilation:
-
-```bash
-latex filename.tex
-```
-
-Modern editors such as Overleaf and TeXstudio can compile documents automatically.
-
 ## 2. Basic Document Structure
 
 Every LaTeX document contains three main components:
