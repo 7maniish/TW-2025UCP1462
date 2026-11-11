@@ -49,3 +49,11 @@ git --version
 ```
 **Git Version:**
 <img src="git-version.png" width="600">
+
+## 6. Configuring Git
+Before using Git, configure your username and email.
+**Set Username, Email and verify configuration:**
+```bash
+git config --global user.name "Student Name"
+git config --global user.email "student@example.com"
+git config --global --list
