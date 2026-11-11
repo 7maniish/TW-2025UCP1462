@@ -30,4 +30,5 @@ A README file provides important information about a project.
 - Usage instructions.
 - Contributors.
 - License information.
+
 GitHub automatically displays the README file on the repository's main page.
