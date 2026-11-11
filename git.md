@@ -27,3 +27,9 @@ Git is a distributed version control system used to track changes in files.
 - Supports branches for separate development.
 - Allows offline work.
 - Helps combine changes from different contributors.
+
+## 4. How Git Works
+Git works through three main steps:
+1. **Working Directory:** Where files are created or modified.
+2. **Staging Area:** Where changes are selected before committing.
+3. **Repository:** Stores committed changes and project history.
