@@ -23,7 +23,6 @@ LaTeX can be used through offline and online tools.
 | MiKTeX | Overleaf |
 | TeX Live | Papeeria |
 | TeXstudio | CoCalc |
-| Kile | |
 
 ### Input and Output
 
@@ -64,9 +63,7 @@ The `\documentclass` command specifies the overall structure of a document.
 |---|---|
 | `article` | Short documents and research papers |
 | `report` | Reports and longer documents |
-| `book` | Books and dissertations |
 | `letter` | Formal letters |
-| `beamer` | Presentations |
 
 ### Document Class Options
 
@@ -92,24 +89,6 @@ LaTeX provides commands to add a title, author name and date to a document.
 - `\author{}` – Specifies the author's name.
 - `\date{}` – Specifies the date.
 - `\maketitle` – Displays the title, author and date.
-
-### Example
-
-```latex
-\documentclass{article}
-
-\title{Hello, World! In LaTeX}
-\author{Manish}
-\date{\today}
-
-\begin{document}
-
-\maketitle
-
-Hello, World!
-
-\end{document}
-```
 
 ### Important Points
 
