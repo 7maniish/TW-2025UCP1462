@@ -32,3 +32,8 @@ A README file provides important information about a project.
 - License information.
 
 GitHub automatically displays the README file on the repository's main page.
+
+## 4. Connecting Local Repository to GitHub
+A local Git repository can be connected to a GitHub repository using the following command:
+```bash
+git remote add origin https://github.com/USERNAME/repository.git
