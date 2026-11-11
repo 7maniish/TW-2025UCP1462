@@ -183,3 +183,48 @@ Example:
 ```
 
 Each `\item` adds a new item to the list.
+
+## 9. Page Breaks
+
+LaTeX provides commands to control page breaks.
+
+- `\newpage` – Starts a new page.
+- `\clearpage` – Starts a new page after placing pending figures and tables.
+
+## 10. Section and Subsection
+
+LaTeX provides commands to organize a document into sections and subsections.
+
+**Example:**
+
+```latex
+\section{Introduction}
+\subsection{Background}
+\section{Methods}
+```
+
+Sections are numbered automatically by LaTeX.
+
+## 11. Lengths and Spaces in LaTeX
+
+LaTeX provides commands to add horizontal and vertical spaces.
+
+**Example:**
+
+```latex
+\hspace{1cm} % Horizontal space
+\vspace{1cm} % Vertical space
+```
+
+- `\hspace` adds horizontal space.
+- `\vspace` adds vertical space.
+
+## 12. BibTeX in LaTeX
+
+BibTeX is used to manage references and create a bibliography.
+
+**Example:**
+
+```latex
+\bibliographystyle{plain}
+\bibliography{references}
