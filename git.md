@@ -39,3 +39,10 @@ Git has three main components:
 1. **Working Directory:** Contains project files.
 2. **Local Repository:** Stores changes and commit history on the computer.
 3. **Remote Repository:** Stores the project online and allows collaboration.
+
+## 5. Installing and Verifying Git
+Git can be installed on Windows, Linux and macOS.
+**Verify Git Installation:**
+Use the following command to check whether Git is installed:
+```bash
+git --version
