@@ -46,3 +46,4 @@ Git can be installed on Windows, Linux and macOS.
 Use the following command to check whether Git is installed:
 ```bash
 git --version
+<img src="git-version.png" width="500">
