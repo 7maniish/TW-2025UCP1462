@@ -1,34 +1,136 @@
 # LaTeX Documentation
 
 ## 1. Introduction to LaTeX
+
 ### What is LaTeX?
-LaTeX is a document preparation system based on the TeX typesetting system.
+
+LaTeX is a document preparation system based on the TeX typesetting system. It is widely used to create professional documents, academic papers, reports and books.
+
+### Why LaTeX?
+
+- Free and portable.
+- Provides professionally designed layouts.
+- Makes mathematical typesetting convenient.
+- Supports multiple output formats.
+- Automatically handles references, footnotes, tables of contents and bibliographies.
+
+### LaTeX Tools
+
+LaTeX can be used through offline and online tools.
+
+| Offline Tools | Online Tools |
+|---|---|
+| MiKTeX | Overleaf |
+| TeX Live | Papeeria |
+| TeXstudio | CoCalc |
+| Kile | |
+
+### Input and Output
+
+A LaTeX source file is a plain text file saved with the `.tex` extension. It contains document text along with LaTeX commands.
+
+Common output formats include:
+
+- PDF (`.pdf`)
+- DVI (`.dvi`)
+- PostScript (`.ps`)
+- Rich Text Format (`.rtf`)
+
+### Compiling a LaTeX Document
+
+A LaTeX source file is processed by a compiler to generate the final document.
+
+Using PDFLaTeX:
+
+```bash
+pdflatex filename.tex
+```
+
+Traditional LaTeX compilation:
+
+```bash
+latex filename.tex
+```
+
+Modern editors such as Overleaf and TeXstudio can compile documents automatically.
 
 ## 2. Basic Document Structure
+
 Every LaTeX document contains three main components:
 
 ```latex
 \documentclass{article}
+
 \begin{document}
+
 This is my first LaTeX document.
+
 \end{document}
+```
+
+### Explanation
+
+- `\documentclass{article}` – Defines the type of document.
+- `\begin{document}` – Marks the beginning of the document content.
+- `\end{document}` – Marks the end of the document.
+
+### Document Classes
+
+The `\documentclass` command specifies the overall structure of a document.
+
+| Class | Purpose |
+|---|---|
+| `article` | Short documents and research papers |
+| `report` | Reports and longer documents |
+| `book` | Books and dissertations |
+| `letter` | Formal letters |
+| `beamer` | Presentations |
+
+### Document Class Options
+
+Optional settings can be added inside square brackets.
+
+Example:
+
+```latex
+\documentclass[12pt,a4paper]{article}
+```
+
+- `12pt` specifies the font size.
+- `a4paper` specifies the paper size.
+- `article` specifies the document class.
 
 ## 3. Adding Title, Author and Date
+
 LaTeX provides commands to add a title, author name and date to a document.
 
 ### Important Commands
+
 - `\title{}` – Defines the title of the document.
 - `\author{}` – Specifies the author's name.
 - `\date{}` – Specifies the date.
 - `\maketitle` – Displays the title, author and date.
 
 ### Example
+
 ```latex
 \documentclass{article}
+
 \title{Hello, World! In LaTeX}
 \author{Manish}
-\date{11 November 2026}
+\date{\today}
+
 \begin{document}
+
 \maketitle
+
 Hello, World!
+
 \end{document}
+```
+
+### Important Points
+
+- The title, author and date are defined before `\begin{document}`.
+- The `\maketitle` command must be placed after `\begin{document}`.
+- `\today` displays the current date automatically.
