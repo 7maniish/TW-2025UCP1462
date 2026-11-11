@@ -82,12 +82,42 @@ A basic Git workflow involves the following commands:
 
 These commands help manage and track project changes.
 
-## 9. Tracking Files with Git
-The `git add` command stages files so they can be included in the next commit.
+## 9. Important Git Commands
 
-## 10. Creating a Git Commit
-A commit saves the staged changes in the Git repository.
-**Command:**
-```bash
-git commit -m "Add main program"
-```
+| Command | Purpose |
+|---|---|
+| `git --version` | Checks the installed Git version. |
+| `git config --global user.name "Name"` | Sets the Git username. |
+| `git config --global user.email "email"` | Sets the Git email. |
+| `git config --global --list` | Displays Git configuration. |
+| `mkdir my-project` | Creates a new directory. |
+| `cd my-project` | Changes the current directory. |
+| `git init` | Initializes a new Git repository. |
+| `git status` | Shows the current repository status. |
+| `git add main.py` | Stages a specific file. |
+| `git add .` | Stages all changes. |
+| `git commit -m "message"` | Saves staged changes as a commit. |
+| `git log` | Displays detailed commit history. |
+| `git log --oneline` | Displays compact commit history. |
+| `git diff` | Shows unstaged changes. |
+| `git diff --staged` | Shows staged changes. |
+| `git diff HEAD` | Shows all changes since the last commit. |
+| `git ls-files` | Lists tracked files. |
+| `git mv old.py new.py` | Renames or moves a tracked file. |
+| `git rm old.py` | Removes a tracked file. |
+| `git restore --staged main.py` | Removes a file from the staging area. |
+| `git restore main.py` | Discards unstaged changes in a file. |
+| `git revert COMMIT_ID` | Creates a new commit that reverses an earlier commit. |
+| `git remote -v` | Displays configured remote repositories. |
+| `git remote add origin URL` | Connects a remote repository. |
+| `git branch` | Lists branches. |
+| `git branch feature-login` | Creates a new branch. |
+| `git switch feature-login` | Switches to another branch. |
+| `git switch -c feature-login` | Creates and switches to a new branch. |
+| `git merge feature-login` | Merges a branch into the current branch. |
+| `git branch -M main` | Renames the current branch to main. |
+| `git push -u origin main` | Pushes commits to the remote repository. |
+| `git push` | Uploads local commits to the remote repository. |
+| `git clone URL` | Copies a remote repository to the local computer. |
+| `git fetch origin` | Downloads remote changes without merging them. |
+| `git pull` | Downloads and integrates remote changes. |
