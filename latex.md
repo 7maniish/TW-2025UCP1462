@@ -255,3 +255,5 @@ LaTeX uses `\colorbox` and `\fcolorbox` to highlight text.
 ```latex
 \colorbox{yellow}{Important Text}
 \fcolorbox{red}{white}{Highlighted Text}
+\colorbox adds background colour.
+\fcolorbox adds a coloured border and background.
