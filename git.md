@@ -19,3 +19,11 @@ There are three main types of version control systems:
 1. **Local Version Control:** Stores file versions on a local computer.
 2. **Centralized Version Control:** Stores versions on a central server. Example: SVN.
 3. **Distributed Version Control:** Every user has a complete copy of the repository. Example: Git.
+
+## 3. Git: An Introduction
+Git is a distributed version control system used to track changes in files.
+- Tracks changes in a project.
+- Stores project history using commits.
+- Supports branches for separate development.
+- Allows offline work.
+- Helps combine changes from different contributors.
