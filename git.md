@@ -68,3 +68,5 @@ A Git repository stores project files and their version history.
 mkdir my-project
 cd my-project
 git init
+```
+<img src="git-init.png" width="600">
