@@ -81,3 +81,13 @@ A basic Git workflow involves the following commands:
 | `git push` | Uploads commits to a remote repository. |
 
 These commands help manage and track project changes.
+
+## 9. Tracking Files with Git
+The `git add` command stages files so they can be included in the next commit.
+
+## 10. Creating a Git Commit
+A commit saves the staged changes in the Git repository.
+**Command:**
+```bash
+git commit -m "Add main program"
+```
