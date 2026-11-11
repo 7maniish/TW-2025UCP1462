@@ -231,3 +231,4 @@ BibTeX is used to manage references and create a bibliography.
 
 - The `bibliographystyle` command selects the bibliography style.
 - The `bibliography` command includes references from a .bib file.
+- `\vspace` adds vertical space.
