@@ -152,3 +152,11 @@ LaTeX provides predefined commands to change the font size.
 | `\Huge` | Largest |
 
 The font size command affects the text enclosed within its braces.
+
+## 6. Text Alignment
+
+LaTeX provides three environments for aligning text:
+
+- `flushleft` – Aligns text to the left.
+- `center` – Aligns text to the center.
+- `flushright` – Aligns text to the right.
