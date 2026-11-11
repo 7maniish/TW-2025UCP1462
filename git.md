@@ -69,4 +69,4 @@ mkdir my-project
 cd my-project
 git init
 ```
-<img src="git-init.png" width="600">
+<img src="git-repo.png" width="600">
