@@ -117,8 +117,5 @@ This text is processed.
 This text is also processed.
 
 \end{document}
-```
 
 When LaTeX encounters `%`, it ignores the remaining part of that line.
-
-```
