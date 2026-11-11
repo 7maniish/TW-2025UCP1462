@@ -119,3 +119,46 @@ This text is also processed.
 \end{document}
 
 When LaTeX encounters `%`, it ignores the remaining part of that line.
+
+## 5. Hyphenation
+
+LaTeX automatically hyphenates words when necessary to format text properly.
+
+The `\-` command specifies possible points where a word can be divided.
+
+Example:
+
+```latex
+manu\-script
+data\-base
+micro\-processor
+```
+
+The word is divided only when a line break occurs at the specified position.
+
+## 5. Font Sizes
+
+LaTeX provides predefined commands to change the font size.
+
+| Command | Font Size |
+|---|---|
+| `\tiny` | Tiny |
+| `\small` | Small |
+| `\normalsize` | Normal |
+| `\large` | Large |
+| `\Large` | Larger |
+| `\LARGE` | Very large |
+| `\huge` | Huge |
+| `\Huge` | Largest |
+
+Example:
+
+```latex
+{\small Small Text}
+
+{\Large Large Text}
+
+{\Huge Largest Text}
+```
+
+The font size command affects the text enclosed within its braces.
