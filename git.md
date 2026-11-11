@@ -60,3 +60,11 @@ git config --global --list
 ```
 **Name and Email:**
 <img src="git-name-email.png" width="600">
+
+## 7. Creating a Git Repository
+A Git repository stores project files and their version history.
+**Steps to Create a Repository:**
+```bash
+mkdir my-project
+cd my-project
+git init
