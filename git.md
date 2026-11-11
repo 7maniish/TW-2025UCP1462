@@ -79,4 +79,5 @@ A basic Git workflow involves the following commands:
 | `git add .` | Stages all changes. |
 | `git commit -m "message"` | Saves changes in the repository. |
 | `git push` | Uploads commits to a remote repository. |
+
 These commands help manage and track project changes.
