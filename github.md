@@ -20,3 +20,14 @@ A GitHub repository is an online storage space for a project's files and their v
 3. Choose Public or Private.
 4. Optionally add a README file.
 5. Click **Create Repository**.
+
+## 3. README File
+A README file provides important information about a project.
+**It usually contains:**
+- Project title and description.
+- Features of the project.
+- Installation instructions.
+- Usage instructions.
+- Contributors.
+- License information.
+GitHub automatically displays the README file on the repository's main page.
