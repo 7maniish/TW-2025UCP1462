@@ -160,3 +160,26 @@ LaTeX provides three environments for aligning text:
 - `flushleft` – Aligns text to the left.
 - `center` – Aligns text to the center.
 - `flushright` – Aligns text to the right.
+
+## 7. Lists in LaTeX
+
+LaTeX provides three types of lists:
+
+- `itemize` – Creates a bulleted list.
+- `enumerate` – Creates a numbered list.
+- `description` – Creates a list with descriptions.
+
+## 8. Trivlist Environment
+
+The `trivlist` environment creates a simple list without bullets or numbers.
+
+Example:
+
+```latex
+\begin{trivlist}
+\item First item without label
+\item Second item
+\end{trivlist}
+```
+
+Each `\item` adds a new item to the list.
