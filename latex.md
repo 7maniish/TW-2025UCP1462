@@ -95,3 +95,30 @@ LaTeX provides commands to add a title, author name and date to a document.
 - The title, author and date are defined before `\begin{document}`.
 - The `\maketitle` command must be placed after `\begin{document}`.
 - `\today` displays the current date automatically.
+
+## 4. Comments and Page Styles
+
+### Comments in LaTeX
+
+Comments are used to add notes in the source code. They do not appear in the compiled document.
+
+The `%` symbol is used to create comments.
+
+Example:
+
+```latex
+\documentclass{article}
+
+\begin{document}
+
+This text is processed.
+
+% This is a comment.
+This text is also processed.
+
+\end{document}
+```
+
+When LaTeX encounters `%`, it ignores the remaining part of that line.
+
+```
