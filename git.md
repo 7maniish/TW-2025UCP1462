@@ -70,3 +70,13 @@ cd my-project
 git init
 ```
 <img src="git-repo.png" width="600">
+
+## 8. Basic Git Workflow
+A basic Git workflow involves the following commands:
+| Command | Purpose |
+|---|---|
+| `git status` | Checks the current repository status. |
+| `git add .` | Stages all changes. |
+| `git commit -m "message"` | Saves changes in the repository. |
+| `git push` | Uploads commits to a remote repository. |
+These commands help manage and track project changes.
