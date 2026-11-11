@@ -257,3 +257,58 @@ LaTeX uses `\colorbox` and `\fcolorbox` to highlight text.
 \fcolorbox{red}{white}{Highlighted Text}
 \colorbox adds background colour.
 \fcolorbox adds a coloured border and background.
+```
+
+## 15. Important LaTeX Symbols
+
+LaTeX provides built-in commands for Greek letters and mathematical symbols.
+
+### Greek Letters
+
+| Symbol | Command |
+|---|---|
+| α | `\alpha` |
+| β | `\beta` |
+| γ | `\gamma` |
+| δ | `\delta` |
+| θ | `\theta` |
+| λ | `\lambda` |
+| μ | `\mu` |
+| ν | `\nu` |
+| π | `\pi` |
+| ρ | `\rho` |
+| σ | `\sigma` |
+| τ | `\tau` |
+| φ | `\phi` |
+| ψ | `\psi` |
+| ω | `\omega` |
+| η | `\eta` |
+| Δ | `\Delta` |
+| Ω | `\Omega` |
+| Σ | `\Sigma` |
+| Γ | `\Gamma` |
+
+### Mathematical Symbols
+
+| Symbol | Command |
+|---|---|
+| ∞ | `\infty` |
+| ≤ | `\leq` |
+| ≥ | `\geq` |
+| ≠ | `\neq` |
+| ≈ | `\approx` |
+| × | `\times` |
+| ÷ | `\div` |
+| ± | `\pm` |
+| √ | `\sqrt{}` |
+| ∑ | `\sum` |
+| ∫ | `\int` |
+| ∂ | `\partial` |
+| ∇ | `\nabla` |
+| ∈ | `\in` |
+| ∉ | `\notin` |
+| ∩ | `\cap` |
+| ∪ | `\cup` |
+| → | `\rightarrow` |
+| ⇒ | `\Rightarrow` |
+| ≡ | `\equiv` |
