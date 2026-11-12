@@ -7,5 +7,5 @@ git init
 git add .
 git commit -m "Add documentation"
 git branch -M main
-git remote add origin https://github.com/7maniish/TW-2025UCp1462.git
+git remote add origin https://github.com/7maniish/TW-2025UCP1462.git
 git push -u origin main
