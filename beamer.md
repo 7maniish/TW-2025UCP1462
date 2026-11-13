@@ -15,7 +15,9 @@ In Beamer, each slide is created using the `frame` environment.
 \begin{frame}{Slide Title}
 Content of the slide
 \end{frame}
+```
 **Example:**
+```bash
 \begin{frame}{Main Points}
 \begin{itemize}
 \item First item
